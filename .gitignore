@@ -1,0 +1,15 @@
+*.csv
+*.dat
+*.gz
+*.log
+*.out
+*.pid
+*.seed
+*.tgz
+*.DS_Store
+/build/
+lib-cov
+logs
+npm-debug.log
+pids
+results
