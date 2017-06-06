@@ -7,4 +7,4 @@
 To use this alternative source, modify `package.json` in your `stf` installation to list the `stf-device-db` dependency as follows:
 `"stf-device-db": "pauln/stf-device-db-dist",`
 
-Then run `npm update stf-device-db` in order to replace your existing `stf-device-db` with this one.
+Then run `npm update stf-device-db` (within your `stf` installation) in order to replace your existing `stf-device-db` with this one.
